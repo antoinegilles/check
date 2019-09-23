@@ -1,2 +1,3 @@
 # check
-this.gandleChange = asynchrone
+onChange = this.handleChange = asynchrone
+onChange = () => this.handleChange = synchrone 
